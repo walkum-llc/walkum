@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://walkum-llc.github.io/walkum/sitemap-index.xml
-Host: https://walkum-llc.github.io
+Sitemap: https://walkum.xyz/sitemap-index.xml
+Host: https://walkum.xyz
